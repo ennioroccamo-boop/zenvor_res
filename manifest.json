@@ -1,8 +1,8 @@
 [
   {
     "filename":    "aristaea_eccellenza.jpln",
-    "name":        "Aristaea \u2013 Programma Eccellenza",
-    "description": "Ricomposizione corporea in 4 fasi progressive. Corpo libero \u2192 Forza \u2192 Ipertrofia \u2192 Definizione. 33 settimane.",
+    "name":        "Aristaea – Programma Eccellenza",
+    "description": "Ricomposizione corporea in 4 fasi progressive. Corpo libero → Forza → Ipertrofia → Definizione. 33 settimane.",
     "tags":        ["Forza", "Ipertrofia", "Corpo Libero", "Powerlifting", "Bodybuilding"],
     "weeks":       33,
     "level":       "Principiante / Intermedio"
@@ -16,12 +16,19 @@
     "level":       "Principiante"
   },
   {
+    "filename":    "filippide_10k.jpln",
+    "name":        "Filippide 10K",
+    "description": "Costruisci velocità e resistenza. Da 5 km a 10 km in 3 cicli progressivi: consolidamento, volume e specifico 10K. Prerequisito: saper correre 5 km senza fermarsi. 14 settimane.",
+    "tags":        ["Running", "Atletica", "Interval Training"],
+    "weeks":       14,
+    "level":       "Intermedio"
+  },
+  {
     "filename":    "atlas.jpln",
     "name":        "Atlas",
-    "description": "Kettlebell Base: Forza, potenza e resistenza in un unico programma.",
+    "description": "Forza, potenza e resistenza in un unico programma. 32 settimane.",
     "tags":        ["kettlebell"],
-    "weeks":       50,
+    "weeks":       32,
     "level":       "Principiante / Intermedio"
   }
-
 ]
