@@ -1,0 +1,18 @@
+[
+  {
+    "filename":    "aristaea_eccellenza.jpln",
+    "name":        "Aristaea \u2013 Programma Eccellenza",
+    "description": "Ricomposizione corporea in 4 fasi progressive. Corpo libero \u2192 Forza \u2192 Ipertrofia \u2192 Definizione. 33 settimane.",
+    "tags":        ["Forza", "Ipertrofia", "Corpo Libero", "Powerlifting", "Bodybuilding"],
+    "weeks":       33,
+    "level":       "Principiante / Intermedio"
+  },
+  {
+    "filename":    "filippide_5k.jpln",
+    "name":        "Filippide 5K",
+    "description": "Dai primi passi ai tuoi primi 5 km. Metodo Run/Walk progressivo + potenziamento specifico. 18 settimane.",
+    "tags":        ["Running", "Atletica", "Cardio"],
+    "weeks":       18,
+    "level":       "Principiante"
+  }
+]
