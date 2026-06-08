@@ -14,5 +14,14 @@
     "tags":        ["Running", "Atletica", "Cardio"],
     "weeks":       18,
     "level":       "Principiante"
+  },
+  {
+    "filename":    "atlas.jpln",
+    "name":        "Atlas",
+    "description": "Forza, potenza e resistenza in un unico programma.",
+    "tags":        ["kettlebell"],
+    "weeks":       50,
+    "level":       "Principiante / Intermedio"
   }
+
 ]
