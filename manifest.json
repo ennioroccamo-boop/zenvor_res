@@ -30,5 +30,13 @@
     "tags":        ["kettlebell"],
     "weeks":       32,
     "level":       "Principiante / Intermedio"
+  },
+  {
+    "filename":    "proteo.jpln",
+    "name":        "Proteo",
+    "description": "Programmo basato sul protocollo HICT adatto a qualsiasi livello atletico. 32 settimane.",
+    "tags":        ["corpo libero"],
+    "weeks":       24,
+    "level":       "Principiante / Intermedio / Avanzato"
   }
 ]
