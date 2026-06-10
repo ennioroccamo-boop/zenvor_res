@@ -38,5 +38,13 @@
     "tags":        ["corpo libero"],
     "weeks":       24,
     "level":       "Principiante / Intermedio / Avanzato"
+  },
+  {
+    "filename":    "nereo.jpln",
+    "name":        "Nereo",
+    "description": "Piano di nuoto concepito per arrivare a nuotare per almeno 1 km continuo senza fermarsi, acquisendo una nuotata decontratta ed efficiente che massimizza la velocità di crociera e minimizza lo sforzo percepito. 12 settimane.",
+    "tags":        ["nuoto","corpo libero"],
+    "weeks":       12,
+    "level":       "Intermedio / Avanzato"
   }
 ]
